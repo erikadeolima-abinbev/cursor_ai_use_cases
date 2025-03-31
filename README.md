@@ -17,6 +17,8 @@ The steps we followed:
 2. Attach the prompt below to the AI Cursor Agent context.
 note: the code below has been considered and tested using macOS, and where there is BEESEDI-33394 replace it with the code for the required task.
 3. Consider one or more repos for the codebase, which attached to the context will be the object of study for the analysis.
+note: The model used was Claude-3.7-Sonnet
+
 
 Here is the prompt we used:
 
