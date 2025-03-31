@@ -19,6 +19,11 @@ note: the code below has been considered and tested using macOS, and where there
 3. Consider one or more repos for the codebase, which attached to the context will be the object of study for the analysis.
 note: The model used was Claude-3.7-Sonnet
 
+![Captura_01](https://github.com/erikadeolima-abinbev/cursor_ai_use_cases/blob/main/captura_01.png?raw=true)
+![Captura_02](https://github.com/erikadeolima-abinbev/cursor_ai_use_cases/blob/main/captura_02.png?raw=true)
+![Captura_03](https://github.com/erikadeolima-abinbev/cursor_ai_use_cases/blob/main/captura_03.png?raw=true)
+![Captura_04](https://github.com/erikadeolima-abinbev/cursor_ai_use_cases/blob/main/captura_04.png?raw=true)
+![Captura_05](https://github.com/erikadeolima-abinbev/cursor_ai_use_cases/blob/main/captura_05.png?raw=true)
 
 Here is the prompt we used:
 
