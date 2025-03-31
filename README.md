@@ -11,6 +11,13 @@ To help with this pain for developers, we suggest using Cursor AI in conjunction
 
 With these points we intend to reduce the time to resolve a bug, improving the relationship of trust between the client and the company.
 
+The steps we followed:
+-> Configured the jira cli;
+-> Attach the prompt below to the AI Cursor Agent context.
+note: the code below has been considered and tested using macOS, and where there is BEESEDI-33394 replace it with the code for the required task.
+-> Consider one or more repos for the codebase, which attached to the context will be the object of study for the analysis.
+
+Here is the prompt we used:
 
 ```
 # Prompts for Bug Analysis
